@@ -1,0 +1,11 @@
+{
+  "themes": {
+    "Your Theme Name": [
+      { "name": "Instagram", "icon": "PASTE_URL_HERE", "app": "instagram://" },
+      { "name": "TikTok",    "icon": "PASTE_URL_HERE", "app": "tiktok://" },
+      { "name": "Spotify",   "icon": "PASTE_URL_HERE", "app": "spotify://" },
+      { "name": "Phone",     "icon": "PASTE_URL_HERE", "app": "tel://" },
+      { "name": "Settings",  "icon": "PASTE_URL_HERE", "app": "app-settings://" }
+    ]
+  }
+}
