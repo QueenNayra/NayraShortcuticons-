@@ -1,11 +1,33 @@
+```json
 {
   "themes": {
-    "Your Theme Name": [
-      { "name": "Instagram", "icon": "PASTE_URL_HERE", "app": "instagram://" },
-      { "name": "TikTok",    "icon": "PASTE_URL_HERE", "app": "tiktok://" },
-      { "name": "Spotify",   "icon": "PASTE_URL_HERE", "app": "spotify://" },
-      { "name": "Phone",     "icon": "PASTE_URL_HERE", "app": "tel://" },
-      { "name": "Settings",  "icon": "PASTE_URL_HERE", "app": "app-settings://" }
+    "Kakegurui Theme": [
+      {
+        "name": "Instagram",
+        "icon": "https://i.postimg.cc/4YsQPH3z/sticker-1.png",
+        "app": "instagram://"
+      },
+      {
+        "name": "TikTok",
+        "icon": "https://i.postimg.cc/DSnP64zG/sticker-10.png",
+        "app": "tiktok://"
+      },
+      {
+        "name": "Spotify",
+        "icon": "https://i.postimg.cc/hf90V1Kq/sticker-2-3.png",
+        "app": "spotify://"
+      },
+      {
+        "name": "Phone",
+        "icon": "https://i.postimg.cc/3kYF10wX/sticker-3.png",
+        "app": "tel://"
+      },
+      {
+        "name": "Settings",
+        "icon": "https://i.postimg.cc/WdTw8q4J/sticker-4.png",
+        "app": "app-settings://"
+      }
     ]
   }
 }
+```
